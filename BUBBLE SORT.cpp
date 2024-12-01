@@ -31,7 +31,7 @@ void print_array(int array[], int n)
         std::cout << array[i] << " ";
     }
 }
-//LENH CHINH
+//LENH THUC THI
 int main()
 {
     int numbers[10];
